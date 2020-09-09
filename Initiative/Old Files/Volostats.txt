@@ -1,0 +1,103 @@
+Abjurer................ +2 13d8  + 26	pg 209
+Alhoon................. +1 16d8  + 48	pg 172
+Annis Hag.............. +1 10d10 + 20	pg 159
+Apprentice Wizard...... +0 2d8   + 0	pg 209
+Archdruid.............. +2 24d8  + 24	pg 210
+Archer................. +4 10d8  + 30	pg 210
+Aurochs................ +0 4d10  + 16	pg 207
+Babau.................. +3 11d8  + 33	pg 136
+Banderhobb............. +1 8d10  + 40	pg 122
+Bard................... +2 8d8   + 8	pg 211
+Barghest............... +2 12d10 + 24	pg 123
+Bheur Hag.............. +3 14d8  + 28	pg 160
+Blackguard............. +0 18d8  + 72	pg 211
+Boggle................. +4 4d6   + 4	pg 128
+Catoblepas............. +1 8d10  + 40	pg 129
+Cave Fisher............ +1 9d8   + 18	pg 130
+Chitine................ +2 4d6   + 4	pg 131
+Choldrith.............. +3 12d8  + 12	pg 132
+Cloud Giant Smiling One. +1 21d12 + 126	pg 146
+Conjurer............... +2 9d8   + 0	pg 212
+Cow.................... +0 2d10  + 4	pg 207
+Cranium Rat............ +2 1d4   + 0	pg 133
+Darkling............... +3 3d6   + 3	pg 134
+Darkling Elder......... +3 5d8   + 5	pg 134
+Death Kiss............. +2 17d10 + 68	pg 124
+Deep Scion............. +1 9d8   + 27	pg 135
+Devourer............... +1 17d10 + 85	pg 138
+Diviner................ +2 15d8  + 0	pg 213
+Dolphin................ +1 2d8   + 2	pg 208
+Draegloth.............. +2 13d10 + 52	pg 141
+Elder Brain............ +0 20d10 + 100	pg 174
+Enchanter.............. +2 9d8   + 0	pg 213
+Evoker................. +2 12d8  + 12	pg 214
+Fire Giant Dreadnought. -1 15d12 + 90	pg 147
+Firenewt Warlock of Imix.+0 6d8  + 6	pg 143
+Flind.................. +0 15d8  + 60	pg 153
+Frost Giant Everlasting One. -1 14d12+98pg 148
+Gauth.................. +2 9d8   + 127	pg 125
+Gazer.................. +3 3d4   + 6	pg 126
+Gnoll Flesh Gnawer..... +2 4d8   + 4	pg 154
+Gnoll Hunter........... +2 4d8   + 4	pg 154
+Gnoll Witherling....... -1 2d8   + 2	pg 155
+Guard Drake............ +0 7d8   + 21	pg 158
+Hobgoblin Devastator... +1 7d8   + 14	pg 161
+Hobgoblin Iron Shadow.. +3 5d8   + 10	pg 162
+Illusionist............ +2 7d8   + 7	pg 214
+Ki-rin................. +3 16d12 + 48	pg 163
+Kobold Dragonshield.... +2 8d6   + 16	pg 165
+Kobold Inventor........ +2 3d6   + 3	pg 166
+Kobold Scale Sorcerer.. +2 5d6   + 10	pg 167
+Korred................. +2 12d6  + 60	pg 168
+Kraken Priest.......... +0 10d8  + 30	pg 215
+Leucrotta.............. +2 9d10  + 18	pg 169
+Martial Arts Adept..... +3 11d8  + 11	pg 216
+Master Thief........... +4 13d8  + 26	pg 216
+Maw Demon.............. -1 6d8   + 6	pg 137
+Meenlock............... +2 7d6   + 7	pg 170
+Mindwitness............ +2 10d10 + 20	pg 176
+Morkoth................ +2 20d8  + 40	pg 178
+Mouth of Grolantor..... +0 10d12 + 40	pg 149
+Necromancer............ +2 12d8  + 12	pg 217
+Neogi.................. +3 6d6   + 12	pg 180
+Neogi Hatchling........ +1 3d4   + 0	pg 179
+Neogi Master........... +3 13d6  + 26	pg 180
+Neothelid.............. -2 21d20 + 105	pg 181
+Nilbog................. +2 2d6   + 0	pg 182
+Orc Blade of Ilneval... +0 8d8   + 24	pg 183
+Orc Claw of Luthic..... +2 6d8   + 18	pg 183
+Orc Hang of Yurtrus.... +0 4d8   + 12	pg 184
+Orc Nurtured One of Yurtrus. -1 4d8+12	pg 184
+Orc Red Fang of Shargaas. +3 8d8  + 16	pg 185
+Quetzalcoatlus......... +1 4d12  + 4	pg 140
+Quickling.............. +6 3d4   + 3	pg 187
+Redcap................. +1 6d6   + 24	pg 188
+Sea Spawn.............. -1 5d8   + 10	pg 189
+Shadow Mastiff......... +2 6d8   + 6	pg 190
+Shoosuva............... +1 13d10 + 39	pg 137
+Slithering Tracker..... +4 5d8   + 10	pg 191
+Spawn of Kyuss......... +0 9d8   + 36	pg 192
+Stone Giant Dreamwalker.+2 14d12 + 70	pg 150
+Storm Giant Quintessent.+2 20d12 + 100	pg 151
+Swarm of Cranium Rates. +2 8d8   + 0	pg 133
+Swarm of Rot Grubs..... -2 5d8   + 0	pg 208
+Swashbuckler........... +4 12d8  + 12	pg 217
+Tanarukk............... +1 10d8  + 50	pg 186
+Tlincalli.............. +1 10d10 + 30	pg 193
+Transmuter............. +2 9d8   + 0	pg 218
+Trapper................ +0 10d10 + 30	pg 194
+Ulitharid.............. +1 17d10 + 34	pg 175
+Vargouille............. +2 3d4   + 6	pg 195
+Velociraptor........... +2 3d4   + 3	pg 140
+War Priest............. +0 18d8  + 36	pg 218
+Warlock of the Archfey. +1 11d8  + 0	pg 219
+Warlock of the Fiend... +2 12d8  + 24	pg 219
+Warlock of the Great Old One.+2 14d8+28	pg 220
+Warlord................ +3 27d8  + 108	pg 220
+Wood Woad.............. +1 10d8  + 30	pg 198
+Xvart.................. +2 2d6   + 0	pg 200
+Xvart Warlock of Raxivort.+2 5d6 + 5	pg 200
+Yeth Hound............. +3 6d10  + 18	pg 201
+Yuan-ti Anathema....... +1 18d12 + 72	pg 202
+Yuan-ti Mind Whisperer. +2 13d8  + 13	pg 204
+Yuan-ti Pit Master..... +2 16d8  + 16	pg 206

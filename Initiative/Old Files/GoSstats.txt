@@ -1,0 +1,57 @@
+Amphisbaena.............. +4 3d8    + 2		pg 230
+Assassin Vine............ +0 10d10  + 30 	pg 230
+Bard..................... +2 8d8    + 8		pg 231
+Bodak.................... +3 9d8    + 18	pg 231
+Bullywug Croaker......... +1 6d8    + 6		pg 232
+Bullywug Royal........... +1 8d8    + 16	pg 232
+Deep Scion............... +1 9d8    + 1		pg 233
+Drowned Ascetic.......... +3 10d8   + 30	pg 233
+Drowned Assassin......... +3 9d8    + 27	pg 234
+Drowned Blade............ -1 6d8    + 18	pg 235
+Drowned Master........... +1 21d8   + 63	pg 235
+Fathomer................. +0 8d8    + 16	pg 236
+Giant Coral Snake........ +3 12d10  + 24	pg 236
+Giant Sea Eel............ +2 3d10   + 3		pg 237
+Harpy Matriarch.......... +3 16d8   + 16	pg 237
+Juvenile Kraken.......... +0 18d12  + 90	pg 238
+Koalinth................. +0 3d8    + 3		pg 238
+Koalinth Sergeant........ +0 6d8    + 6		pg 239
+Kraken Priest............ +0 10d8   + 30	pg 240
+Kysh..................... +3 5d8    + 5		pg 240
+Living Iron Statue....... +2 12d8   + 48	pg 241
+Lizardfolk Commoner...... +0 3d8    + 3		pg 241
+Lizardfolk Render........ +0 7d10   + 14	pg 241
+Lizardfolk Scaleshield... +0 5d8    + 10	pg 242
+Lizardfolk Subchief...... +1 8d8    + 16	pg 242
+Locathah................. +1 4d8    + 4		pg 243
+Locathah Hunter.......... +2 6d8    + 6		pg 243
+Maw Demon................ -1 6d8    + 6 	pg 243
+Maw of Sekolah........... +1 12d12  + 36	pg 244
+Merfolk Salvager......... +2 4d8    + 4		pg 244
+Minotaur Living Crystal Statue. -1 16d10+48 pg 245
+Monstrous Peryton........ +2 17d10  + 51	pg 245
+Mr Dory.................. +5 20d8   + 80	pg 246
+Oceanus.................. +1 4d8    + 12	pg 246
+Pirate Bosun............. +0 5d8    + 5		pg 247
+Pirate Captain........... +2 7d8    + 14	pg 247
+Pirate Deck Warrior...... +2 5d8    + 10	pg 248
+Pirate First Mate........ +0 4d8    + 8		pg 248
+Rip Tide Priest.......... +0 8d8    + 16	pg 248
+Sahuagin Blademaster..... +1 15d8   + 30	pg 249
+Sahuagin Champion........ +2 13d8   + 13	pg 249
+Sahuagin Coral Smasher... +1 6d8    + 6		pg 249
+Sahuagin Deep Diver...... +3 14d8   + 27	pg 250
+Sahuagin Hatchling Swarm. +4 8d10   + 8		pg 250
+Sahuagin High Priestess.. +1 11d8   + 22 	pg 251
+Sahuagin Wave Shaper..... +1 11d8   + 11	pg 251
+Sanbalet................. +1 6d8    + 0		pg 252
+Sea Lion................. +0 2d10   + 4		pg 252
+Shell Shark.............. +1 5d8    + 10	pg 252
+Skeletal Alchemist....... +1 5d8    + 10	pg 253
+Skeletal Juggernaut...... +2 19d10  + 38	pg 253
+Skeletal Swarm........... +2 8d10   + 16	pg 254
+Skum..................... +0 11d8   + 44	pg 254
+Storm Giant Quintessent.. +2 20d12  + 100	pg 255
+Swarm of Rot Grubs....... -2 5d8    + 0		pg 255
+Thousand Teeth........... +0 11d10  + 33	pg 256
+Vampiric Jade Statue..... +2 12d10  + 48	pg 256

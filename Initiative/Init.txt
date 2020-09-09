@@ -1,0 +1,17 @@
+Combat order is: 
+Vampire1...19
+chris......10
+Vampire2...10
+matt.......4
+Basilisk...1
+
+
+NPCs.......HP
+Basilisk...52
+Vampire1...151
+Vampire2...143
+
+
+NPC........Page number
+Vampire....Monster Manual pg.297
+Basilisk...Monster Manual pg.24

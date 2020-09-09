@@ -1,0 +1,59 @@
+Acereak.................. +3 30d8  + 150	pg 209
+Albino Dwarf warrior..... +1 4d8   + 12 	pg 210
+Aldani................... -1 9d8   + 9  	pg 210
+Almiraje................. +3 1d6   + 0  	pg 211
+Ankylosaurus zombie...... -1 8d12  + 16 	pg 240
+Artus Cimber............. +2 15d8  + 15 	pg 212
+Assassin Vine............ +0 10d10 + 30 	pg 213
+Atropal.................. -3 18d12 + 108	pg 214
+Bodak.................... +3 9d8   + 18 	pg 215
+Brontosaurus,............ -1 9d20  + 27 	pg 215
+Champion................. +2 22d8  + 44 	pg 216
+Chwinga.................. +5 2d4   + 0  	pg 216
+Deinonychus.............. +2 4d8   + 8  	pg 217
+Dimetrodon............... +0 3d8   + 6  	pg 217
+Dragonbait............... +1 16d8  + 48 	pg 218
+Eblis.................... +3 4d10  + 4		pg 219
+Firenewt warlock......... +0 6d8   + 6    pg 219
+Firenewt Warrior......... +1 4d8   + 4  	pg 219
+Flail Snail.............. -3 5d10  + 25 	pg 220
+Flying Monkey............ +2 1d6   + 0  	pg 220
+Froghemoth............... +1 16d12 + 80 	pg 221
+Giant four-armed gargoyle. +0 14d10 +70 	pg 221
+Giant snapping turtle.... +0 10d10 + 20 	pg 222
+Giant strider............ +1 3d10  + 6  	pg 222
+Girallon................. +3 7d10  + 21 	pg 222
+Girallon zombie.......... +1 7d10  + 21 	pg 240
+Grung.................... +2 2d6   + 4  	pg 223
+Grung elite warrior...... +3 9d6   + 18 	pg 223
+Grung wildling........... +3 5d6   + 10 	pg 224
+Hadrosaurus.............. +0 3d10  + 3  	pg 224
+Jaculi................... +2 3d10  + 0  	pg 225
+Kamadan.................. +3 9d10  + 18 	pg 225
+Kobold inventor.......... +2 3d6   + 3  	pg 226
+Kobold scale sorcerer.... +2 5d6   + 10 	pg 226
+Liara portyr............. +1 13d8  + 26 	pg 227
+Mantrap.................. +2 7d10  + 7  	pg 227
+Mwaxanare................ +0 3d8   + 0  	pg 228
+Pterafolk................ +1 4d10  + 4  	pg 229
+Quetzalcoatlus........... +1 4d12  + 4  	pg 230
+Ras Nsi.................. +3 17d8  + 51 	pg 230
+Stegosaurus.............. -1 8d12  + 24 	pg 231
+Stone juggernaut......... -5 15d10 + 75 	pg 231
+Su-monster............... +2 5d8   + 5  	pg 232
+Tabaxi hunter............ +3 9d8   + 0  	pg 232
+Tabaxi minstrel.......... +2 5d8   + 0  	pg 233
+Thorny................... +1 5d8   + 5  	pg 233
+Tri-flower frond......... +0 2d8   + 2  	pg 234
+Tyrannosaurus zombie..... -2 13d12 + 52 	pg 241
+Vegepygmy................ +2 2d6   + 2  	pg 234
+Vegepygmy chief.......... +2 6d6   + 12 	pg 235
+Velociraptor............. +2 3d4   + 3  	pg 235
+Volo..................... +1 7d8   + 0  	pg 235
+Xandala.................. +0 11d8  + 22 	pg 236
+Yellow musk creeper...... -4 11d8  + 11 	pg 237
+Yellow musk zombie....... -1 6d8   + 6  	pg 237
+Yuan-ti broodguard....... +2 7d8   + 14 	pg 238
+Yuan-ti nightmare speaker. +2 13d8 13 		pg 239
+Zindar................... +0 17d8  + 34 	pg 239
+Zorbo.................... +0 6d6   + 6  	pg 241

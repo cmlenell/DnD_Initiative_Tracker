@@ -1,0 +1,430 @@
+Aarakocra.............. +2 3d8  + 0 	pg 12
+Aboleth................ -1 18d10 + 36	pg 13
+Abominable Yeti........ +0 11d12 + 66	pg 306
+Acolyte................ +0 2d8   + 0	pg 342
+Adult Black Dragon..... +2 17d12 + 85	pg 88
+Adult Blue Dracolich... +0 18d12 + 108	pg 84
+Adult Blue Dragon...... +0 18d12 + 108	pg 91
+Adult Brass Dragon..... +0 15d12 + 75	pg 105
+Adult Bronze Dragon.... +0 17d12 + 102	pg 108
+Adult Copper Dragon.... +1 16d12 + 80	pg 111
+Adult Gold Dragon...... +2 19d12 + 133	pg 114
+Adult Green Dragon..... +1 18d12 + 90	pg 94
+Adult Red Dragon....... +0 19d12 + 133	pg 98
+Adult Silver Dragon.... +0 18d12 + 126	pg 117
+Adult White Dragon..... +0 16d12 + 96	pg 101
+Air Elemental.......... +5 12d10 + 24	pg 124
+Allosaurus............. +1 6d10  + 18	pg 79
+Ancient Black Dragon... +2 21d20 + 147	pg 87
+Ancient Blue Dragon.... +0 26d20 + 208	pg 90
+Ancient Brass Dragon... +0 17d20 + 119	pg 104
+Ancient Bronze Dragon.. +0 24d20 + 192	pg 107
+Ancient Copper Dragon.. +1 20d20 + 140	pg 110
+Ancient Gold Dragon.... +2 28d20 + 252	pg 113
+Ancient Green Dragon... +1 22d20 + 154	pg 93
+Ancient Red Dragon..... +0 28d20 + 252	pg 97
+Ancient Silver Dragon.. +0 25d20 + 225	pg 116
+Ancient White Dragon... +0 18d20 + 144	pg 100
+Androsphinx............ +0 19d10 + 95	pg 281
+Animated Armor......... +0 6d8   + 6	pg 19
+Ankheg................. +0 6d10  + 6	pg 21
+Ankylosaurus........... +0 8d12  + 16	pg 79
+Ape.................... +2 3d8   + 6	pg 317
+Arcanaloth............. +1 16d8  + 32	pg 313
+Archmage............... +2 18d8  + 18	pg 342
+Assassin............... +3 12d8  + 24	pg 343
+Awakened Shrub......... -1 3d6   + 6	pg 317
+Awakened Tree.......... -2 7d12  + 14	pg 317
+Aze Beak............... +1 3d10  + 3	pg 317
+Azer................... +1 6d8   + 12	pg 22
+Baboon................. +2 1d6   + 0	pg 318
+Badger................. +0 1d4   + 1	pg 318
+Balor.................. +2 21d12 + 126	pg 55
+Bandit................. +1 2d8   + 2	pg 343
+Bandit Captain......... +3 10d8  + 20	pg 344
+Banshee................ +2 13d8  + 0	pg 23
+Barbed Devil........... +3 13d8  + 52	pg 70
+Barlgura............... +2 8d10  + 24	pg 56
+Basilisk............... -1 8d8   + 16	pg 24
+Bat.................... +2 1d4   + 0	pg 318
+Bearded Devil.......... +2 8d8   + 16	pg 70
+Behir.................. +3 16d12 + 64	pg 25
+Beholder............... +2 19d10 + 76	pg 28
+Beholder Zombie........ -1 11d10 + 33	pg 316
+Berserker.............. +1 9d8   + 27	pg 344
+Black Bear............. +0 3d8   + 6	pg 318
+Black Dragon Wyrmling.. +2 6d8   + 6	pg 88
+Black Pudding.......... -3 10d10 + 30	pg 241
+Blink Dog.............. +3 4d8   + 4	pg 318
+Blood Hawk............. +2 2d6   + 0	pg 319
+Blue Dragon Wyrmling... +0 8d8   + 16	pg 91
+Blue Slaad............. +2 13d10 + 52	pg 276
+Boar................... +0 2d8   + 2	pg 319
+Bone Devil............. +3 15d10 + 60	pg 71
+Bone Naga.............. +3 9d10  + 9	pg 233
+Brass Dragon Wyrmling.. +0 3d8   + 3	pg 106
+Bronze Dragon Wyrmling. +0 5d8   + 10	pg 109
+Brown Bear............. +0 4d10  + 12	pg 319
+Bugbear................ +2 5d8   + 5	pg 33
+Bugbear Chief.......... +2 10d8  + 20	pg 33
+Bulette................ +0 9d10  + 45	pg 34
+Bullywug............... +1 2d8   + 2	pg 35
+Cambion................ +4 11d8  + 33	pg 36
+Camel.................. -1 2d10  + 4	pg 320
+Carrion Crawler........ +1 6d10  + 18	pg 37
+Cat.................... +2 1d4   + 0	pg 320
+Centaur................ +2 6d10  + 12	pg 38
+Chain Devil............ +2 10d8  + 40	pg 72
+Chasme................. +2 13d10 + 13	pg 57
+Chimera................ +0 12d10 + 48	pg 39
+Chuul.................. +0 11d10 + 33	pg 40
+Clay Golem............. -1 14d10 + 56	pg 168
+Cloaker................ +2 12d10 + 12	pg 41
+Cloud Giant............ +0 16d12 + 96	pg 154
+Cockatrice............. +1 6d6   + 6	pg 42
+Commoner............... +0 1d8   + 0	pg 345
+Constrictor Snake...... +2 2d10  + 2	pg 320
+Copper Dragon Wyrmling. +1 4d8   + 4	pg 112
+Couatl................. +5 13d8  + 39	pg 43
+Crab................... +0 1d4   + 0	pg 320
+Crawling Claw.......... +2 1d4   + 0	pg 44
+Crocodile.............. +0 3d10  + 3	pg 320
+Cultist................ +1 2d8   + 0	pg 345
+Cult Fanatic........... +2 6d8   + 6	pg 345
+Cyclops................ +0 12d12 + 60	pg 45
+Dao.................... +1 15d10 + 105	pg 143
+Darkmantle............. +1 5d6   + 5	pg 46
+Death Dog.............. +2 6d8   + 12	pg 321
+Death Knight........... +0 19d8  + 95	pg 47
+Death Slaad............ +2 20d8  + 80	pg 278
+Death Tyrant........... +2 25d10 + 50	pg 29
+Deep Gnome............. +2 3d6   + 6	pg 164
+Deer................... +3 1d8   + 0	pg 321
+Demilich............... +5 20d4  + 0	pg 48
+Deva................... +4 16d8  + 64	pg 16
+Dire Wolf.............. +2 5d10  + 10	pg 321
+Displacer Beast........ +2 10d10 + 30	pg 81
+Djinni................. +2 14d10 + 84	pg 144
+Doppelganger........... +4 8d8   + 16	pg 82
+Dragon Cultist......... +2 9d8	 + 10	pg 345
+Dragon Turtle.......... +0 22d20 + 110 	pg 119
+Dretch................. +0 4d6   + 4	pg 57
+Drider................. +3 13d10 + 52	pg 120
+Drow................... +2 3d8   + 0	pg 128
+Drow Elite Warrior..... +4 11d8  + 22	pg 128
+Drow Mage.............. +2 10d8  + 0	pg 129
+Drow Priestess of Lolth.+2 13d8  + 13	pg 129
+Druid.................. +1 5d8   + 5	pg 346
+Dryad.................. +1 5d8   + 0	pg 121
+Duergar................ +0 4d8   + 8	pg 122
+Duodrone............... +1 2d8   + 2	pg 225
+Dust Mephit............ +2 5d6   + 0	pg 215
+Eagle.................. +2 1d6   + 0	pg 322
+Earth Elemental........ -1 12d10 + 60	pg 124
+Efreeti................ +1 16d10 + 112	pg 145
+Elephant............... -1 8d12  + 24	pg 322
+Elk.................... +0 2d10  + 2	pg 322
+Empyrean............... +5 19d12 + 190	pg 130
+Erinyes................ +3 18d8  + 72	pg 73
+Ettercap............... +2 8d8   + 8	pg 131
+Ettin.................. -1 10d10 + 30	pg 132
+Faerie Dragon.......... +5 4d4   + 4	pg 133
+Fire Elemental......... +3 12d10 + 36	pg 125
+Fire Giant............. -1 13d12 + 78	pg 154
+Fire Snake............. +2 5d8   + 0	pg 265
+Flameskull............. +3 9d4   + 14	pg 134
+Flesh Golem............ -1 11d8  + 44	pg 169
+Flumph................. +2 2d6   + 0	pg 135
+Flying Snake........... +4 2d4   + 0	pg 322
+Flying Sword........... +2 5d6   + 0	pg 20
+Fomorian............... +0 13d12 + 65	pg 136
+Frog................... +1 1d4   + 0	pg 322
+Frost Giant............ -1 12d12 + 60	pg 155
+Galeb Duhr............. +2 9d8   + 45	pg 139
+Gargoyle............... +0 7d8   + 21	pg 140
+Gas Spore.............. -5 1d10  + 0	pg 138
+Gelatinous Cube........ -4 8d10  + 40	pg 242
+Ghast.................. +3 8d8   + 0	pg 148
+Ghost.................. +1 10d8  + 0	pg 147
+Ghoul.................. +2 5d8   + 0	pg 148
+Giant Ape.............. +2 15d12 + 60	pg 323
+Giant Badger........... +1 2d8   + 4	pg 323
+Giant Bat.............. +3 4d10  + 0	pg 323
+Giant Boar............. +0 5d10  + 15	pg 323
+Giant Centipede........ +2 1d6   + 1	pg 323
+Giant Constrictor Snake.+2 8d12  + 8	pg 324
+Giant Crab............. +2 3d8   + 0	pg 324
+Giant Crocodile........ -1 9d12  + 27	pg 324
+Giant Eagle............ +3 4d10  + 4	pg 324
+Giant Elk.............. +3 5d12  + 10	pg 325
+Giant Fire Beetle...... +0 1d6   + 1	pg 325
+Giant Frog............. +1 4d8   + 0	pg 325
+Giant Goat............. +0 3d10  + 3	pg 326
+Giant Hyena............ +2 6d10  + 12	pg 326
+Giant Lizard........... +1 3d10  + 3	pg 326
+Giant Octopus.......... +1 8d10  + 8	pg 326
+Giant Owl.............. +2 3d10  + 3	pg 327
+Giant Poisonous Snake.. +4 2d8   + 2	pg 327
+Giant Rat.............. +2 2d6   + 0	pg 327
+Giant Scorpion......... +1 7d10  + 14	pg 327
+Giant Sea Horse........ +2 3d10  + 0	pg 328
+Giant Shark............ +0 11d12 + 55	pg 328
+Giant Spider........... +3 4d10  + 4	pg 328
+Giant Toad............. +1 6d10  + 6	pg 329
+Giant Vulture.......... +0 3d10  + 6	pg 329
+Giant Wasp............. +2 3d8   + 0	pg 329
+Giatn Weasel........... +3 2d8   + 0	pg 329
+Giant Wolf Spider...... +3 2d8   + 2	pg 330
+Gibbering Mouther...... -1 9d8   + 27	pg 157
+Githyanki Knight....... +2 14d8  + 28	pg 160
+Githyanki Warrior...... +2 9d8   + 9	pg 160
+Githzerai Monk......... +2 7d8   + 7	pg 161
+Githzerai Zerth........ +4 13d8  + 26	pg 161
+Glabrezu............... +2 15d10 + 75	pg 58
+Gladiator.............. +2 15d8  + 45	pg 346
+Gnoll.................. +1 5d8   + 0	pg 163
+Gnoll Fang of Yeenoghu. +2 10d8  + 20	pg 163
+Gnoll Pack Lord........ +2 9d8   + 9	pg 163
+Goat................... +0 1d8   + 0	pg 330
+Goblin................. +2 2d6   + 0	pg 166
+Goblin Boss............ +2 6d6   + 0	pg 166
+Gold Dragon Wyrmling... +2 8d8   + 24	pg 115
+Gorgon................. +0 12d10 + 48	pg 171
+Goristro............... +0 23d12 + 161	pg 59
+Gray Ooze.............. -2 3d8   + 9	pg 243
+Gray Slaad............. +3 17d8  + 51	pg 277
+Green Dragon Wyrmling.. +1 7d8   + 7	pg 95
+Green Hag.............. +1 11d8  + 33	pg 177
+Green Slaad............ +2 15d10 + 45	pg 277
+Grell.................. +2 10d8  + 10	pg 172
+Grick.................. +2 6d8   + 0	pg 173
+Grick Alpha............ +3 10d10 + 20	pg 173
+Griffon................ +2 7d10  + 21	pg 174
+Grimlock............... +1 2d8   + 2	pg 175
+Guard.................. +1 2d8   + 2	pg 347
+Guardian Naga.......... +4 15d10 + 45	pg 234
+Gynosphinx............. +2 16d10 + 48	pg 282
+Half-Ogre.............. +0 4d10  + 8	pg 238
+Half-red Dragon Veteran.+1 10d8  + 20	pg 180
+Harpy.................. +1 7d8   + 7	pg 181
+Hawk................... +3 1d4   + 0	pg 330
+Hell Hound............. +1 7d8   + 14	pg 182
+Helmed Horror.......... +1 8d8   + 24	pg 183
+Hezrou................. +3 13d10 + 65	pg 60
+Hill Giant............. -1 10d12 + 40	pg 155
+Hippogriff............. +1 3d10  + 3	pg 184
+Hobgoblin.............. +1 2d8   + 2	pg 186
+Hobgoblin Captain...... +2 6d8   + 12	pg 186
+Hobgoblin Warlord...... +2 13d8  + 39	pg 187
+Homunculus............. +2 2d4   + 0	pg 188
+Hook Horror............ +0 10d10 + 20	pg 189
+Horned Devil........... +3 17d10 + 85	pg 74
+Hunter Shark........... +1 6d10  + 12	pg 330
+Hydra.................. +1 15d12 + 75	pg 190
+Hyena.................. +1 1d8   + 1	pg 331
+Ice Devil.............. +2 19d10 + 76	pg 75
+Ice Mephit............. +1 6d6   + 0	pg 215
+Imp.................... +3 3d4   + 3	pg 76
+Incubus................ +3 12d8  + 12	pg 284
+Intellect Devourer..... +2 6d4   + 6	pg 191
+Invisible Stalker...... +4 16d8  + 32	pg 192
+Iron Giant............. -1 20d10 + 100	pg 170
+Jackal................. +2 1d6   + 0	pg 331
+Jackalwere............. +2 4d8   + 0	pg 193
+Kenku.................. +3 3d8   + 0	pg 194
+Killer Whale........... +0 12d12 + 12	pg 331
+Knight................. +0 8d8   + 16	pg 347
+Kobold................. +2 2d6   + 0	pg 195
+Kraken................. +0 27d20 + 189	pg 197
+Kuo-toa................ +0 4d8   + 0	pg 199
+Kuo-toa Archpriest..... +2 13d8  + 39	pg 200
+Kuo-toa Whip........... +0 10d8  + 20	pg 200
+Lamia.................. +1 13d10 + 26	pg 201
+Lemure................. -3 3d8   + 0	pg 76
+Lich................... +3 18d8  + 54	pg 202
+Lion................... +2 4d10  + 4	pg 331
+Lizard................. +0 1d4   + 0	pg 332
+Lizard King............ +1 12d8  + 24	pg 205
+Lizard Queen.......... +1 12d8  + 24	pg 205
+Lizardfolk............. +0 4d8   + 4	pg 204
+Lizardfolk Shaman...... +0 5d8   + 5	pg 205
+Mage................... +2 9d8   + 0	pg 347
+Magma Mephit........... +1 5d6   + 5	pg 216
+Magmin................. +2 2d6   + 2	pg 212
+Mammoth................ -1 11d12 + 55	pg 332
+Manes.................. -1 2d6   + 2	pg 60
+Manticore.............. +3 8d10  + 24	pg 213
+Marid.................. +1 17d10 + 136	pg 146
+Marilith............... +5 18d10 + 90	pg 61
+Mastiff................ +2 1d8   + 1	pg 332
+Medusa................. +2 17d8  + 51	pg 214
+Merfolk................ +1 2d8   + 2	pg 218
+Merrow................. +0 6d10  + 12	pg 219
+Mezzoloth.............. +0 10d8  + 30	pg 313
+Mimic.................. +1 9d8   + 18	pg 220
+Mind Flayer............ +1 13d8  + 13	pg 222
+Minotaur............... +0 9d10  + 27	pg 223
+Minotaur Skeleton...... +0 9d10  + 18   pg 273
+Monodrone.............. +1 1d8   + 1	pg 224
+Mud Mephit............. +1 6d6   + 6	pg 216
+Mule................... +0 2d8   + 2	pg 333
+Mummy.................. -1 9d8   + 18	pg 228
+Mummy Lord............. +0 13d8  + 39	pg 229
+Myconid Adult.......... +0 4d8   + 4	pg 232
+Myconid Sovereign...... +0 8d10  + 16	pg 232
+Myconid Sprout......... +0 2d6   + 0	pg 230
+Nalfeshnee............. +0 16d10 + 96	pg 62
+Needle Blight.......... +1 2d8   + 2	pg 32
+Night Hag.............. +2 15d8  + 45	pg 178
+Nightmare.............. +2 8d10  + 24	pg 235
+Noble.................. +1 2d8   + 0	pg 348
+Nothic................. +3 6d8   + 18	pg 236
+Nycaloth............... +0 13d10 + 52	pg 314
+Ochre Jelly............ -2 6d10  + 12	pg 243
+Octopus................ +2 1d6   + 0	pg 333
+Ogre................... -1 7d10  + 21	pg 237
+Ogre Zombie............ -2 9d10  + 36	pg 316
+Oni.................... +0 13d10 + 39	pg 239
+Orc.................... +1 2d8   + 6	pg 246
+Orc Eye of Gruumsh..... +1 6d8   + 18	pg 247
+Orc War Chief.......... +1 11d8  + 44	pg 246
+Orog................... +1 5d8   + 20	pg 247
+Otyugh................. +0 12d10 + 48	pg 248
+Owl.................... +1 1d4   + 0	pg 333
+Owlbear................ +1 7d10  + 21	pg 249
+Panther................ +2 3d8   + 0	pg 333
+Pegasus................ +2 7d10  + 21	pg 250
+Pentadrone............. +2 5d10  + 5	pg 226
+Peryton................ +1 6d8   + 6	pg 251
+Phase Spider........... +2 5d10  + 5	pg 334
+Piercer................ +1 3d8   + 9	pg 252
+Pit Fiend.............. +2 24d10 + 168	pg 77
+Pixie.................. +5 1d4   + 0	pg 253
+Planetar............... +5 16d10 + 112	pg 17
+Plesiosaurus........... +2 8d10  + 24	pg 80
+Poisonous Snake........ +3 1d4   + 0	pg 334
+Polar Bear............. +0 5d10  + 15	pg 334
+Pony................... +0 2d8   + 2	pg 335
+Priest................. +0 5d8   + 5	pg 348
+Pseudodragon........... +2 2d4   + 2	pg 254
+Pteranodon............. +2 3d8   + 0	pg 80
+Purple Worm............ -2 15d20 + 90	pg 255
+Quadrone............... +2 4d8   + 4	pg 226
+Quaggoth............... +1 6d8   + 18	pg 256
+Quaggoth Spore Servant. +1 6d8   + 18	pg 230
+Quasit................. +3 3d4   + 0	pg 63
+Quipper................ +3 1d4   + 0	pg 335
+Rakshasa............... +3 13d8  + 52	pg 257
+Rat.................... +0 1d4   + 0	pg 335
+Raven.................. +2 1d4   + 0	pg 335
+Red Dragon Wyrmling.... +0 10d8  + 30	pg 98
+Red Slaad.............. +1 11d10 + 33	pg 276
+Reef Shark............. +1 4d8   + 4	pg 336
+Remorhaz............... +1 17d12 + 85	pg 258
+Revenant............... +2 16d8  + 64	pg 259
+Rhinoceros............. -1 6d10  + 12	pg 336
+Riding Horse........... +0 2d10  + 2	pg 336
+Roc.................... +0 16d20 + 80	pg 260
+Roper.................. -1 11d10 + 33	pg 261
+Rug of Smothering...... +2 6d10  + 10	pg 20
+Rust Monster........... +1 5d8   + 5	pg 262
+Saber-toothed Tiger.... +2 7d10  + 14	pg 336
+Sahuagin............... +0 4d8   + 4	pg 263
+Sahuagin Baron......... +2 9d10  + 27	pg 264
+Sahuagin Priestess..... +0 6d8   + 6	pg 264
+Salamander............. +2 12d10 + 24	pg 266
+Satyr.................. +3 7d8   + 0	pg 267
+Scarecrow.............. +1 8d8   + 0	pg 268
+Scorpion............... +0 1d4   + 0	pg 337
+Scout.................. +2 3d8   + 3	pg 349
+Sea Hag................ +1 7d8   + 21	pg 179
+Sea Horse.............. +1 1d4   + 0	pg 337
+Shadow................. +2 3d8   + 3	pg 269
+Shadow Demon........... +3 12d8  + 12	pg 64
+Shambling Mound........ -1 16d10 + 48	pg 270
+Shield Guardian........ -1 15d10 + 60	pg 271
+Shrieker............... -5 3d8   + 0	pg 138
+Silver Dragon Wyrmling. +0 6d8   + 18	pg 118
+Skeleton............... +2 2d8   + 4	pg 272
+Slaad Tadpole.......... +2 4d4   + 0	pg 279
+Smoke Mephit........... +2 5d6   + 5	pg 217
+Solar.................. +6 18d10 + 144	pg 18
+Spectator.............. +2 6d8   + 12	pg 30
+Specter................ +2 5d8   + 0	pg 279
+Spider................. +2 1d4   + 0	pg 337
+Spined Devil........... +2 5d6   + 5	pg 78
+Spirit Naga............ +3 10d10 + 20	pg 234
+Sprite................. +4 1d4   + 0	pg 283
+Spy.................... +2 3d8   + 3	pg 349
+Steam Mephit........... +0 6d6   + 0	pg 217
+Stirge................. +3 1d4   + 0	pg 284
+Stone Giant............ +2 11d12 + 55	pg 156
+Stone Golem............ -1 17d10 + 85	pg 170
+Storm Giant............ +2 20d12 + 100	pg 156
+Succubus............... +3 12d8  + 12	pg 285
+Swarm of Bats.......... +2 5d8   + 0	pg 337
+Swarm of Insects....... +1 5d8   + 0	pg 338
+Swarm of Poisonous Snakes.+4 8d8 + 0	pg 338
+Swarm of Quippers...... +3 7d8   + 0	pg 338
+Swarm of Rats.......... +0 6d8   + 0	pg 339
+Swarm of Ravens........ +2 6d8   + 0	pg 339
+Tarrasque.............. +0 33d20 + 330	pg 286
+Thri-kreen............. +2 6d8   + 6	pg 288
+Thug................... +0 5d8   + 10	pg 350
+Tiger.................. +2 5d10  + 10	pg 339
+Treant................. -1 12d12 + 60	pg 289
+Tribal Warrior......... +0 2d8   + 2	pg 350
+Triceratops............ -1 10d12 + 30	pg 80
+Tridrone............... +1 3d8   + 3	pg 225
+Troglodyte............. +0 2d8   + 4	pg 290
+Troll.................. +1 8d10  + 40	pg 291
+Twig Blight............ +1 1d6   + 1	pg 32
+Tyrannosaurus Rex...... +0 13d12 + 52	pg 80
+Ultroloth.............. +3 18d8  + 72	pg 314
+Umber Hulk............. +1 11d10 + 33	pg 292
+Unicorn................ +2 9d10  + 18	pg 294
+Vampire................ +4 17d8  + 68	pg 297
+Vampire Spawn.......... +3 11d8  + 33	pg 298
+Veteran................ +1 9d8   + 18	pg 350
+Vine Blight............ -1 4d8   + 8	pg 32
+Violet Fungus.......... -5 4d8   + 0	pg 138
+Vrock.................. +2 11d10 + 44	pg 64
+Vulture................ +0 1d8   + 1	pg 339
+Warhorse............... +1 3d10  + 3	pg 340
+Warhorse Skeleton...... +1 3d10  + 6	pg 273
+Water Elemental........ +2 12d10 + 48	pg 125
+Water Weird............ +3 9d10  + 9	pg 299
+Weasel................. +3 1d4   + 0	pg 340
+Werebear............... +0 18d8  + 54	pg 208
+Wereboar............... +0 12d8  + 24	pg 209
+Wererat................ +2 6d8   + 6	pg 209
+Weretiger.............. +2 16d8  + 48	pg 210
+Werewolf............... +1 9d8   + 18	pg 211
+White Dragon Wyrmling.. +0 5d8   + 10	pg 102
+Wight.................. +2 6d8   + 18	pg 300
+Will-o-wisp............ +9 9d4   + 0	pg 301
+Winged Kobold.......... +3 3d6   + 0	pg 195
+Winter Wolf............ +1 10d10 + 20	pg 340
+Wolf................... +2 2d8   + 2	pg 341
+Worg................... +1 4d10  + 4	pg 341
+Wrath.................. +3 9d8   + 27	pg 302
+Wyvern................. +0 13d10 + 39	pg 303
+Xorn................... +0 7d8   + 42	pg 304
+Yeti................... +1 6d10  + 18	pg 305
+Yochlol................ +2 16d8  + 64	pg 65
+Young Black Dragon..... +2 15d10 + 45	pg 88
+Young Blue Dragon...... +0 16d10 + 64	pg 91
+Young Brass Dragon..... +0 13d10 + 39	pg 105
+Young Bronze Dragon.... +0 15d10 + 60	pg 108
+Young Copper Dragon.... +1 14d10 + 42	pg 111
+Young Gold Dragon...... +2 17d10 + 85	pg 115
+Young Green Dragon..... +1 16d10 + 48	pg 94
+Young Red Dragon....... +0 17d10 + 85	pg 98
+Young Red Shadow Dragon.+0 17d10 + 85	pg 85
+Young Remorhaz......... +1 11d10 + 33	pg 258
+Young Silver Dragon.... +0 16d10 + 80	pg 118
+Young White Dragon..... +0 14d10 + 56	pg 101
+Yuan-ti Abomination.... +3 15d10 + 45	pg 308
+Yuan-ti Malison........ +2 12d8  + 12	pg 309
+Yuan-ti Pureblood...... +1 9d8   + 0 	pg 310
+Zombie................. -2 3d8   + 9	pg 316
